@@ -49,7 +49,7 @@ const (
 	DefaultL2NetworkURL                 = "http://localhost:8123"
 	PermissionlessL2NetworkURL          = "http://localhost:8125"
 	DefaultL2NetworkWebSocketURL        = "ws://localhost:8133"
-	DefaultL2ChainID             uint64 = 1001
+	DefaultL2ChainID             uint64 = 1810
 
 	DefaultTimeoutTxToBeMined = 1 * time.Minute
 

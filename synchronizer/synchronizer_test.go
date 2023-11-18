@@ -633,7 +633,7 @@ func createTransaction(txIndex uint64) types.Transaction {
 		BlockHash:   &block_hash,
 		BlockNumber: &block_number,
 		TxIndex:     &tx_index,
-		ChainID:     types.ArgBig(*big.NewInt(1001)),
+		ChainID:     types.ArgBig(*big.NewInt(1810)),
 		Type:        types.ArgUint64(0),
 	}
 	return transaction
