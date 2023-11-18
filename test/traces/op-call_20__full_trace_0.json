@@ -6272,7 +6272,7 @@
     {
       "stateRoot": "0xda66fc93843b717a1050d630a45347829222f2b68a9d537b0e7c4cfe74284912",
       "depth": 2,
-      "pc": 181,
+      "pc": 1337,
       "gas": "488834",
       "opcode": "POP",
       "refund": "0",
